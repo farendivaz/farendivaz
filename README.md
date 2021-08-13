@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farendivaz
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning django and react
+- 🌱 I’m currently learning django
 
 
 <!---
