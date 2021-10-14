@@ -1,6 +1,6 @@
 Hi, I’m @farendivaz 
 
-I'm University student who lives in Indonesia. I'm learning how to code. 
+I'm University student who lives in Indonesia. I'm learning how to code.
 I love Programming, Data Science and Open source & have been using some open source projects.
 I also Linux user which i really enjoy it and have been using linux as my primary OS since July 2021.
 
