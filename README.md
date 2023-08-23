@@ -17,15 +17,15 @@ I'm currently diving deep into Laravel to expand my skills on the backend side o
 
 ## 📫 Let's Connect
 
-- Personal Site: [farendivaz.site](farendiva.site)
-- LinkedIn: [LinkedIn](linkedin.com/in/farizdandy)
-- Twitter: [@farendivaz](twitter.com/farendivaz)
+- Personal Site: [farendivaz.site](https://farendivaz.site)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/farizdandy)
+- Twitter: [@farendivaz](https://twitter.com/farendivaz)
 
 Feel free to reach out if you want to collaborate, have questions, or just want to say hi!
 
 ## 📚 Blog & Tutorials
 
-I occasionally share my experiences and insights through blog posts. Check them out on [Farendivaz Blog](farendivaz.site/posts)!
+I occasionally share my experiences and insights through blog posts. Check them out on [Farendivaz Blog](https://farendivaz.site/posts)!
 
 
 Thanks for stopping by and getting to know me a little better. Let's build amazing web experiences together! 😄
