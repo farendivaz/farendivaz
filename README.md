@@ -2,13 +2,13 @@
 
 🌟 Frontend Web Developer | React & Next.js Enthusiast  🌟
 
-Welcome to my GitHub profile! I'm passionate about creating delightful and user-centric web experiences. With a background in Frontend development and a recent foray into Laravel, I'm constantly exploring the world of web technologies. Feel free to explore my repositories and get in touch!
+Welcome to my GitHub profile! I'm passionate about creating delightful and user-centric web experiences. I'm constantly exploring the world of web technologies. Feel free to explore my repositories and get in touch!
 
 ## 🔧 Technologies & Tools
 
 - **Frontend**: React, Next.js
 - **Styling**: Tailwind CSS
-- **Backend**: Laravel
+- **Backend**: Express, Nodejs
 - **Version Control**: Git
 
 ## 🌱 Currently Learning
